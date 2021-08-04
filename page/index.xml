@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Pete Witcher, Technical Writer</title>
+    <link>https://petewitcher-techwriter.com/page/</link>
+    <description>Recent content in Pages on Pete Witcher, Technical Writer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>pete.witcher@gmail.com (Pete Witcher)</managingEditor>
+    <webMaster>pete.witcher@gmail.com (Pete Witcher)</webMaster>
+    <lastBuildDate>Mon, 12 Jul 2021 17:30:53 -0600</lastBuildDate><atom:link href="https://petewitcher-techwriter.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Samples</title>
+      <link>https://petewitcher-techwriter.com/page/samples/</link>
+      <pubDate>Mon, 12 Jul 2021 17:30:53 -0600</pubDate>
+      <author>pete.witcher@gmail.com (Pete Witcher)</author>
+      <guid>https://petewitcher-techwriter.com/page/samples/</guid>
+      <description>Some examples of my work Browse some documents I wrote or co-wrote below. I&amp;rsquo;m happy to provide custom samples if you would like see something written from scratch.
+Note: Layout and design decisions were almost always determined by groups outside of my tech writing team (Marketing, for example), so I take no credit for look and feel.
+Sample #1 - Open API documentation Most of the API documentation I&amp;rsquo;ve done is proprietary and internal-only, so I created and hosted my own simple RESTful web API.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://petewitcher-techwriter.com/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>pete.witcher@gmail.com (Pete Witcher)</author>
+      <guid>https://petewitcher-techwriter.com/page/about/</guid>
+      <description>I&amp;rsquo;m a technical writer with over 20 years of experience documenting retail and enterprise products of varying technical complexity. I enjoy the challenge of learning new applications and technologies, and I love writing about them to let others appreciate them as well.
+Before becoming a technical writer, I was a copywriter, a slot machine salesman, a call center supervisor, and I had many other jobs in my teens and twenties. I&amp;rsquo;m also an amateur musician.</description>
+    </item>
+    
+  </channel>
+</rss>

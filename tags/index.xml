@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Pete Witcher, Technical Writer</title>
+    <link>https://petewitcher-techwriter.com/tags/</link>
+    <description>Recent content in Tags on Pete Witcher, Technical Writer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>pete.witcher@gmail.com (Pete Witcher)</managingEditor>
+    <webMaster>pete.witcher@gmail.com (Pete Witcher)</webMaster><atom:link href="https://petewitcher-techwriter.com/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
