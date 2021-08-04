@@ -9,14 +9,14 @@
     <webMaster>pete.witcher@gmail.com (Pete Witcher)</webMaster>
     <lastBuildDate>Mon, 12 Jul 2021 17:30:53 -0600</lastBuildDate><atom:link href="https://pwitcher.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Writing Samples</title>
+      <title>Portfolio</title>
       <link>https://pwitcher.github.io/page/samples/</link>
       <pubDate>Mon, 12 Jul 2021 17:30:53 -0600</pubDate>
       <author>pete.witcher@gmail.com (Pete Witcher)</author>
       <guid>https://pwitcher.github.io/page/samples/</guid>
-      <description>Some examples of my work Browse some documents I wrote or co-wrote below. I&amp;rsquo;m happy to provide custom samples if you would like see something written from scratch.
-Note: Layout and design decisions were almost always determined by groups outside of my tech writing team (Marketing, for example), so I take no credit for look and feel.
-Sample #1 - Open API documentation Most of the API documentation I&amp;rsquo;ve done is proprietary and internal-only, so I created and hosted my own simple RESTful web API.</description>
+      <description>Some examples of my work Browse some documents I wrote and co-wrote below. I&amp;rsquo;m happy to provide custom samples if you would like see something written from scratch.
+Sample #1 - Open API documentation Most of the API documentation I&amp;rsquo;ve done is proprietary and internal-only, so I created and hosted my own simple RESTful web API. Then I documented it to provide that documentation as a sample.
+Tools used  Python Flask SwaggerHub OAS Git/Github Heroku Atom WinSCP  Sample #2 - Internal API guide This guide documents an API for monitoring and managing a 3U SSD storage device.</description>
     </item>
     
     <item>
