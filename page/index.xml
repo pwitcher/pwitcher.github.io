@@ -14,9 +14,9 @@
       <pubDate>Mon, 12 Jul 2021 17:30:53 -0600</pubDate>
       <author>pete.witcher@gmail.com (Pete Witcher)</author>
       <guid>https://pwitcher.github.io/page/samples/</guid>
-      <description>Some examples of my work You can browse some documents I wrote and co-wrote below. I also provide custom samples on request.
+      <description>Some examples of my work You can browse some documents I&amp;rsquo;ve written below. I also provide custom samples on request.
 Sample #1 - Open API documentation Most of the API documentation I&amp;rsquo;ve done is proprietary and internal-only, so I created and hosted my own simple RESTful web API. Then I documented it with SwaggerHub to provide that as a sample.
-Tools used  Python Flask SwaggerHub OAS Git/Github Heroku Atom WinSCP  Sample #2 - Distributed Cloud Service Documentation Overview</description>
+Tools used  Python Flask SwaggerHub OAS Git/Github Heroku Atom WinSCP  Sample #2 - Distributed Cloud Service documentation Overview</description>
     </item>
     
     <item>
