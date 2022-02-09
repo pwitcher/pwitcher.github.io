@@ -25,8 +25,8 @@ Projects with the following features make the technical writer’s job relativel
       <author>pete.witcher@gmail.com (Pete Witcher)</author>
       <guid>https://pwitcher.github.io/page/samples/</guid>
       <description>Some examples of my work You can browse some documents I wrote and co-wrote below. I also provide custom samples on request.
-Sample #1 - Open API documentation Most of the API documentation I&amp;rsquo;ve done is proprietary and internal-only, so I created and hosted my own simple RESTful web API. Then I documented it to provide that documentation as a sample.
-Tools used  Python Flask SwaggerHub OAS Git/Github Heroku Atom WinSCP  Sample #2 - Internal API guide This guide documents an API for monitoring and managing a 3U SSD storage device.</description>
+Sample #1 - Open API documentation Most of the API documentation I&amp;rsquo;ve done is proprietary and internal-only, so I created and hosted my own simple RESTful web API. Then I documented it with SwaggerHub to provide that as a sample.
+Tools used  Python Flask SwaggerHub OAS Git/Github Heroku Atom WinSCP  Sample #2 - Distributed Cloud Service Documentation Overview</description>
     </item>
     
     <item>

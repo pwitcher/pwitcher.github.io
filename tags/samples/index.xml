@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>samples on Pete Witcher</title>
+    <link>https://petewitcher-techwriter-com.vercel.app/tags/samples/</link>
+    <description>Recent content in samples on Pete Witcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>pete.witcher@gmail.com (Pete Witcher)</managingEditor>
+    <webMaster>pete.witcher@gmail.com (Pete Witcher)</webMaster>
+    <lastBuildDate>Mon, 12 Jul 2021 17:30:53 -0600</lastBuildDate><atom:link href="https://petewitcher-techwriter-com.vercel.app/tags/samples/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samples</title>
+      <link>https://petewitcher-techwriter-com.vercel.app/page/samples/</link>
+      <pubDate>Mon, 12 Jul 2021 17:30:53 -0600</pubDate>
+      <author>pete.witcher@gmail.com (Pete Witcher)</author>
+      <guid>https://petewitcher-techwriter-com.vercel.app/page/samples/</guid>
+      <description>Samples of my technical writing I&amp;rsquo;ve documented different types of APIs, including web service APIs, software APIs, and hardware APIs.
+API documentation sample
+[IF150 RESTful API Guide](/API Guide - SSD.pdf)
+[NVMKV API Library](/API Guide - storage devices.pdf)
+Admin guide</description>
+    </item>
+    
+  </channel>
+</rss>
