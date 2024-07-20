@@ -1,22 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Pete Witcher, Technical Writer</title>
-    <link>https://pwitcher.github.io/post/</link>
-    <description>Recent content in Posts on Pete Witcher, Technical Writer</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>pete.witcher@gmail.com (Pete Witcher)</managingEditor>
-    <webMaster>pete.witcher@gmail.com (Pete Witcher)</webMaster>
-    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pwitcher.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What Technical Writers Do in the Shadows</title>
-      <link>https://pwitcher.github.io/post/2021-08-03-people-skills/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      <author>pete.witcher@gmail.com (Pete Witcher)</author>
-      <guid>https://pwitcher.github.io/post/2021-08-03-people-skills/</guid>
-      <description>As a job title, “technical writer” only tells part of the story. Yes, we write technical content, but we also use people skills to facilitate the writing process. The road from undocumented project to comprehensive document suite is rarely smooth, and the user documentation is often de-prioritized when resources are scarce. That&amp;rsquo;s why tech writers usually employ our people skills before we apply our fingertips to the keyboard.
-Projects with the following features make the technical writer’s job relatively easy:</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Pete Witcher, Technical Writer</title><link>https://pwitcher.github.io/post/</link><description>Recent content in Posts on Pete Witcher, Technical Writer</description><generator>Hugo</generator><language>en</language><managingEditor>pete.witcher@gmail.com (Pete Witcher)</managingEditor><webMaster>pete.witcher@gmail.com (Pete Witcher)</webMaster><lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pwitcher.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>What Technical Writers Do in the Shadows</title><link>https://pwitcher.github.io/post/2021-08-03-people-skills/</link><pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate><author>pete.witcher@gmail.com (Pete Witcher)</author><guid>https://pwitcher.github.io/post/2021-08-03-people-skills/</guid><description>As a job title, “technical writer” only tells part of the story. Yes, we write technical content, but we also use people skills to facilitate the writing process. The road from undocumented project to comprehensive document suite is rarely smooth, and the user documentation is often de-prioritized when resources are scarce. That&amp;rsquo;s why tech writers usually employ our people skills before we apply our fingertips to the keyboard.
+Projects with the following features make the technical writer’s job relatively easy:</description></item></channel></rss>
